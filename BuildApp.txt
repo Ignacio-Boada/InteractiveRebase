@@ -1,3 +1,6 @@
 Example text
 
 Example text second commit
+
+Example text third commit
+
